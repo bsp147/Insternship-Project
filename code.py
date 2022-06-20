@@ -5,7 +5,7 @@
 from tkinter import *
 import tkinter as tk
 import tkinter.messagebox as mbox
-from pil import ImageTk, Image
+from PIL import ImageTk, Image
 import random
 import math
 
